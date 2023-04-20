@@ -5,8 +5,8 @@ using UnityEngine;
 public class SpawnManager : MonoBehaviour
 {
     public GameObject[] animalPrefabs;
-    private float spawnrangeX = 20;
-    private float spawn
+    private float spawnRangeX = 20;
+
     // Start is called before the first frame update
     void Start()
     {
